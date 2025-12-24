@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Andrea De la Ossa 💜
 
-<!--
-**adela088/adela088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Java](https://img.shields.io/badge/Java-23-orange?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Swing](https://img.shields.io/badge/GUI-Java%20Swing-blue?style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Estudiante de Ingeniería de Sistemas**  
+💻 Desarrolladora enfocada en **Java, interfaces gráficas y lógica de programación**  
+🎮 Apasionada por crear **juegos, aplicaciones visuales y proyectos interactivos**
+
+---
+
+## 🚀 Sobre mí
+
+- 🧠 Me gusta entender **cómo funcionan las cosas por dentro**
+- 🎨 Disfruto diseñar interfaces gráficas claras y animadas
+- 🧵 Trabajo con **threads, eventos y lógica avanzada**
+- 🛠️ Me interesa mejorar continuamente mis proyectos
+
+---
+
+## 🧩 Proyectos destacados
+
+🎮 **CrystalGames**  
+> Colección de mini-juegos desarrollados en Java Swing  
+🔗 https://github.com/adela088/CrystalGames
+
+🧮 **Calculadora Mega**  
+> Calculadora científica iterativa y recursiva con medición de tiempo y memoria  
+🔗 https://github.com/adela088/Calculadora_Mega
+
+---
+
+## 🛠️ Tecnologías
+
+- **Lenguajes:** Java, Python, JavaScript  
+- **Frameworks:** Swing, React  
+- **Herramientas:** Git, GitHub, NetBeans, VS Code  
+- **Plataforma:** Windows / Desktop apps
+
+---
+
+## 🌱 Actualmente aprendiendo
+
+- ⚛️ React
+- 🧩 Arquitectura de proyectos
+- 🧠 Mejores prácticas de desarrollo
+
+---
+
+✨ *Gracias por visitar mi perfil*
