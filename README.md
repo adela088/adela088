@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Andrea De la Ossa 💜
+# 👋 ¡Hola! Soy Andrea De la Ossa 
 
 ![Java](https://img.shields.io/badge/Java-23-orange?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
