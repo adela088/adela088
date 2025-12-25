@@ -33,6 +33,9 @@
 > Calculadora científica iterativa y recursiva con medición de tiempo y memoria  
 🔗 https://github.com/adela088/Calculadora_Mega
 
+📌 **Generador JSON**
+> Generador interactivo de archivos .json
+🔗 https://github.com/adela088/GeneradorJSON
 ---
 
 ## 🛠️ Tecnologías
