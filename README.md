@@ -43,7 +43,7 @@
 - **Lenguajes:** Java, Python, JavaScript  
 - **Frameworks:** Swing, React  
 - **Herramientas:** Git, GitHub, NetBeans, VS Code  
-- **Plataforma:** Windows / Desktop apps
+- **Plataforma:** Windows / Desktop apps / Web
 
 ---
 
