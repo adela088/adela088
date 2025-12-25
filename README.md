@@ -34,7 +34,7 @@
 🔗 https://github.com/adela088/Calculadora_Mega
 
 📌 **Generador JSON**
-> Generador interactivo de archivos .json
+> Generador interactivo de archivos .json                     
 🔗 https://github.com/adela088/GeneradorJSON
 ---
 
